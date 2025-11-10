@@ -12,3 +12,8 @@ git clone https://github.com/yuanbingyan/PCPOCSSampler.git
 conda env create -f environment.yml
 conda activate sip_torch
 ```
+3. Prepare data. Download the LDCT-and-Projection-data | Low Dose CT Image and Projection Data from the official datasets: American Cancer Imaging Archive.
+4. Run the script in terminal
+```bash
+python run_CT_recon.py
+```
