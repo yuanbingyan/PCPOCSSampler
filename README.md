@@ -4,10 +4,10 @@ A Predictor-Corrector based Projection Onto Convex Set Diffusion Sampler, used t
 
 ## Requirements
 1. Clone this repository
-'''bash
-git clone https://github.com/yuanbingyan/PCPOCSSampler.git
+'''git clone https://github.com/yuanbingyan/PCPOCSSampler.git'''
 
 2. Install Package: Create Conda environment
-'''bash
+'''
 conda env create -f environment.yml
 conda activate sip_torch
+'''
